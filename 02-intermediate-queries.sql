@@ -1,6 +1,10 @@
 -- ============================================
 -- Intermediate SQL Queries (Q8 to Q14)
 -- ============================================
+-- Project: E-Commerce Sales Analysis
+-- Description: 7 intermediate queries covering multi-table JOINs,
+--              CASE WHEN logic, date functions, and HAVING clauses
+-- Skills: JOIN, GROUP BY, HAVING, CASE WHEN, DATE_FORMAT
 
 USE ecommerce_db;
 
