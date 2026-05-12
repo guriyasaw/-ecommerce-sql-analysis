@@ -1,6 +1,10 @@
 -- ============================================
 -- Advanced SQL Queries (Q15 to Q20)
 -- ============================================
+-- Project: E-Commerce Sales Analysis
+-- Description: 6 advanced queries using window functions, CTEs,
+--              and month-over-month business analysis
+-- Skills: RANK(), LAG(), NTILE(), PERCENT_RANK(), WITH (CTE)
 
 USE ecommerce_db;
 
