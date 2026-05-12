@@ -1,6 +1,10 @@
 -- ============================================
 -- Beginner SQL Queries (Q1 to Q7)
 -- ============================================
+-- Project: E-Commerce Sales Analysis
+-- Description: 7 beginner queries covering SELECT, WHERE, 
+--              GROUP BY, ORDER BY, NULL handling, and aggregations
+-- Skills: SELECT, WHERE, COUNT, SUM, AVG, IS NOT NULL, LIMIT
 
 USE ecommerce_db;
 
