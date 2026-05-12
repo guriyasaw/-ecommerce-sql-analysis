@@ -1,7 +1,10 @@
 -- ============================================
 -- E-Commerce Database Schema
--- Author: [Your Name]
+-- Author: Guriya shaw
 -- ============================================
+-- Project: E-Commerce Sales Analysis
+-- Description: Creates normalized 3-table MySQL database
+--              (customers, products, orders) with foreign key relationships
 
 CREATE DATABASE IF NOT EXISTS ecommerce_db;
 USE ecommerce_db;
